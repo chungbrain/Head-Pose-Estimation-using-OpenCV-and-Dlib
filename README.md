@@ -8,6 +8,9 @@ The final result of this project is shown as below.
 
 <img src="https://github.com/chungbrain/Head-Pose-Estimation-using-OpenCV-and-Dlib/blob/master/2018-05-07_4-34-39.png" width="720"> 
 
+Example #1~4 show correct estimation which is orthgonal direction (blue stick) from facial plane.
+However, example #5 couldn't give correct one. 
+
 * hardware specification: Galaxy book 12 inch (2017), windows 10 home 
 * anaconda 4.5.2  
 * OpenCV 3.4.1, imutils 0.4.6, numpy 1.11.3, dlib 19.9
